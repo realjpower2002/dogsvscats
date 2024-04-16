@@ -1,0 +1,9 @@
+ProjectFiles.tar
+
+ProjectFiles
+ProjectFiles/*
+
+object-detection-react-app/npm-debug.log*
+object-detection-react-app/yarn-debug.log*
+object-detection-react-app/yarn-error.log*
+
